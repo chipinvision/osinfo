@@ -12,21 +12,21 @@
    - Battery Status
     
     
-##Available On:
+## Available On:
    - Windows 10
    - Linux
 
-##Tested On:
+## Tested On:
 
    - Windows 10
    - Kali Linux
 
-##Requirements:
+## Requirements:
    - psutil (pip install psutil) [Windows]
    - psutil (pip3 install psutill) [Linux]
    - Make sure you have git and python installed on your system
 
-##Installation Guide:
+## Installation Guide:
 
 - For Linux:
 
