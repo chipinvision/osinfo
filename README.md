@@ -1,5 +1,7 @@
 # **osinfo** - A system information detail provider
 
+![gbanner](https://user-images.githubusercontent.com/72114434/124065903-4df66200-da55-11eb-9eb7-e51e02287177.png)
+
 osinfo is a system information detail provider written using Python. It bassically scans the device and provides informations such as:
 
     - Platform
