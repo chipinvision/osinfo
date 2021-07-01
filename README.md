@@ -39,7 +39,7 @@
 
    -  git clone https://github.com/chipinvision/osinfo
    -  cd osinfo
-   -  pyhton osinfo.py
+   -  python osinfo.py
 
 
 ### osinfo on Windows
