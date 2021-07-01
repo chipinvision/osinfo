@@ -9,4 +9,40 @@ osinfo is a system information detail provider written using Python. It bassical
     - CPU Info
     - Battery Status
 
+##Available On:
+   - Windows 10
+   - Linux
+
+##Tested On:
+
+   - Windows 10
+   - Kali Linux
+
+##Requirements:
+   - psutil (pip install psutil) [Windows]
+   - psutil (pip3 install psutill) [Linux]
+   - Make sure you have git and python installed on your system
+
+##Installation Guide:
+
+- For Linux:
+
+   -  git clone https://github.com/chipinvision/osinfo
+   -  cd osinfo
+   -  ls
+   -  python3 osinfo.py
+
+- For Windows:
+
+   -  git clone https://github.com/chipinvision/osinfo
+   -  cd osinfo
+   -  pyhton osinfo.py
+
+
+### osinfo on Windows
+![osinfo_win](https://user-images.githubusercontent.com/72114434/124065026-90b73a80-da53-11eb-85b6-991190e6a562.png)
+
+
+### osinfo on Linux
+![osinfo_linux](https://user-images.githubusercontent.com/72114434/124065094-a88ebe80-da53-11eb-9391-0f7f1ff5101a.png)
 
