@@ -51,8 +51,8 @@
 ### osinfo on Linux
 ![osinfo_linux](https://user-images.githubusercontent.com/72114434/124065094-a88ebe80-da53-11eb-9391-0f7f1ff5101a.png)
 
-# **osinfo doesnot work properly on Mac as psutil is not supported on Mac. It only works well on Windows and Linux**
 
 ### osinfo tested on M1 MacBook Air
 ![mac](https://user-images.githubusercontent.com/72114434/124216930-e43d8d00-db14-11eb-8409-cb33e1c11ec2.jpg)
 
+## **osinfo doesnot work properly on Mac as psutil is not supported on Mac. It only works well on Windows and Linux**
