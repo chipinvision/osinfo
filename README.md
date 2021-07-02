@@ -1,6 +1,6 @@
 <p align="center"> <img title="Made in INDIA" src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"> </p>
 
-### **osinfo** - A system information detail provider
+# **osinfo** - A system information detail provider
 
 ![gbanner](https://user-images.githubusercontent.com/72114434/124065903-4df66200-da55-11eb-9eb7-e51e02287177.png)
 
@@ -55,4 +55,4 @@
 ### osinfo tested on M1 MacBook Air
 ![mac](https://user-images.githubusercontent.com/72114434/124216930-e43d8d00-db14-11eb-8409-cb33e1c11ec2.jpg)
 
-## **osinfo doesnot work properly on Mac as psutil is not supported on Mac. It only works well on Windows and Linux**
+**osinfo doesnot work properly on Mac as psutil is not supported on Mac. It only works well on Windows and Linux**
