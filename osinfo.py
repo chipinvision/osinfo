@@ -1,9 +1,10 @@
 import os
 import platform
+import pyfiglet
 import psutil
-print("\033[1;36;40m **********************************************************************")
-print("\033[1;32;40m *********** osinfo - A system information detail provider ************")
-print("\033[1;36;40m **********************************************************************")
+banner = pyfiglet.figlet_format("osinfo", font="5lineoblique")
+print(banner)
+print('\n')
 system = platform.system()
 print("\033[1;31;40m > System:",system)
 architect = platform.architecture()
